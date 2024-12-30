@@ -1,7 +1,7 @@
 ---
 title: "Die Taverne"
 author: "mike"
-veroeffentlichkeitsDatum: "2024-09-17"
+veroeffentlichkeitsDatum: "2024-12-30"
 kategorie: "Kurzgeschichte"
 urlPfad: "die-taverne"
 ---
